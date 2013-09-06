@@ -84,7 +84,7 @@ if(!empty($_GET['id'])) {
     <body id="body">
 		<div>
 			<header>
-				<h1>JavaScript</h1>
+				<h1>JavaScript 3 </h1>
 			</header>
 			<div id="toolbar">
 				<input type="button" value="black" onclick="document.getElementById('body').className='black'" />
